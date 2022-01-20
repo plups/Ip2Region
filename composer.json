@@ -1,0 +1,24 @@
+{
+  "type": "library",
+  "name": "plups/ip2region",
+  "homepage": "https://github.com/plups/Ip2Region",
+  "description": "Ip2Region for PHP",
+  "license": "Apache-2.0",
+  "authors": [
+    {
+      "name": "Plups",
+      "homepage": "https://tsh.phpy.xyz"
+    }
+  ],
+  "keywords": [
+    "Ip2Region"
+  ],
+  "require": {
+    "php": ">=5.3"
+  },
+  "autoload": {
+    "classmap": [
+      "Ip2Region.php"
+    ]
+  }
+}
